@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Kirill Guk, iOS-developer.
+### I'm Kirill Guk, iOS-developer from Moscow, Russia.
 
 ### My core skills:
 - Swift
