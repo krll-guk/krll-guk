@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Kirill Guk, iOS-developer.
 
-<!--
-**krll-guk/krll-guk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My core skills:
+- Swift
+- UIKit
+- Autolayout
+- REST API
+- GCD
+- Cocoapods
+- SPM
+- CoreData
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My contacts:
+- email: krll.guk@yandex.ru
+- telegram: @krllguk
